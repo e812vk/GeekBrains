@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1", "Lesson1\Lesson1.csproj", "{01328D54-9B1A-4552-8A6E-85CD4DE51F54}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1", "Lesson1\Lesson1\Lesson1.csproj", "{01328D54-9B1A-4552-8A6E-85CD4DE51F54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1(SplashScreen)", "..\Lesson1(SplashScreen)\Lesson1(SplashScreen).csproj", "{16736941-34AB-4349-88B3-89C7481ECF28}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1(SplashScreen)", "Lesson1\Lesson1(SplashScreen)\Lesson1(SplashScreen).csproj", "{16736941-34AB-4349-88B3-89C7481ECF28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

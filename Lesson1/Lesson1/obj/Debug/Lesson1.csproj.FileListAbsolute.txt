@@ -7,3 +7,12 @@ C:\Обучение GeekBrains\C# Уровень 2\Lesson1\Lesson1\obj\Debug\Les
 C:\Обучение GeekBrains\C# Уровень 2\Lesson1\Lesson1\obj\Debug\Lesson1.csproj.CoreCompileInputs.cache
 C:\Обучение GeekBrains\C# Уровень 2\Lesson1\Lesson1\obj\Debug\Lesson1.exe
 C:\Обучение GeekBrains\C# Уровень 2\Lesson1\Lesson1\obj\Debug\Lesson1.pdb
+C:\Projects\GeekBrains\Lesson1\Lesson1\bin\Debug\Lesson1.exe.config
+C:\Projects\GeekBrains\Lesson1\Lesson1\bin\Debug\Lesson1.exe
+C:\Projects\GeekBrains\Lesson1\Lesson1\bin\Debug\Lesson1.pdb
+C:\Projects\GeekBrains\Lesson1\Lesson1\obj\Debug\Lesson1.csprojAssemblyReference.cache
+C:\Projects\GeekBrains\Lesson1\Lesson1\obj\Debug\Lesson1.Properties.Resources.resources
+C:\Projects\GeekBrains\Lesson1\Lesson1\obj\Debug\Lesson1.csproj.GenerateResource.cache
+C:\Projects\GeekBrains\Lesson1\Lesson1\obj\Debug\Lesson1.csproj.CoreCompileInputs.cache
+C:\Projects\GeekBrains\Lesson1\Lesson1\obj\Debug\Lesson1.exe
+C:\Projects\GeekBrains\Lesson1\Lesson1\obj\Debug\Lesson1.pdb

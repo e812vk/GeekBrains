@@ -7,3 +7,12 @@ C:\Обучение GeekBrains\C# Уровень 2\Lesson1(SplashScreen)\obj\Deb
 C:\Обучение GeekBrains\C# Уровень 2\Lesson1(SplashScreen)\obj\Debug\Lesson1(SplashScreen).exe
 C:\Обучение GeekBrains\C# Уровень 2\Lesson1(SplashScreen)\obj\Debug\Lesson1(SplashScreen).pdb
 C:\Обучение GeekBrains\C# Уровень 2\Lesson1(SplashScreen)\obj\Debug\Lesson1(SplashScreen).csprojAssemblyReference.cache
+C:\Projects\GeekBrains\Lesson1(SplashScreen)\bin\Debug\Lesson1(SplashScreen).exe.config
+C:\Projects\GeekBrains\Lesson1(SplashScreen)\bin\Debug\Lesson1(SplashScreen).exe
+C:\Projects\GeekBrains\Lesson1(SplashScreen)\bin\Debug\Lesson1(SplashScreen).pdb
+C:\Projects\GeekBrains\Lesson1(SplashScreen)\obj\Debug\Lesson1(SplashScreen).csprojAssemblyReference.cache
+C:\Projects\GeekBrains\Lesson1(SplashScreen)\obj\Debug\Lesson1_SplashScreen_.Properties.Resources.resources
+C:\Projects\GeekBrains\Lesson1(SplashScreen)\obj\Debug\Lesson1(SplashScreen).csproj.GenerateResource.cache
+C:\Projects\GeekBrains\Lesson1(SplashScreen)\obj\Debug\Lesson1(SplashScreen).csproj.CoreCompileInputs.cache
+C:\Projects\GeekBrains\Lesson1(SplashScreen)\obj\Debug\Lesson1(SplashScreen).exe
+C:\Projects\GeekBrains\Lesson1(SplashScreen)\obj\Debug\Lesson1(SplashScreen).pdb
