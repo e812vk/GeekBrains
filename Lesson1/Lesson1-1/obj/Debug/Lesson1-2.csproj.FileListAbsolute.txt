@@ -1,0 +1,6 @@
+C:\Projects\GeekBrains\Lesson1\Lesson1\obj\Debug\Lesson1-2.csprojAssemblyReference.cache
+C:\Projects\GeekBrains\Lesson1\Lesson1\obj\Debug\Lesson1.Properties.Resources.resources
+C:\Projects\GeekBrains\Lesson1\Lesson1\obj\Debug\Lesson1-2.csproj.GenerateResource.cache
+C:\Projects\GeekBrains\Lesson1\Lesson1\obj\Debug\Lesson1-2.csproj.CoreCompileInputs.cache
+C:\Projects\GeekBrains\Lesson1\Lesson1\obj\Debug\Lesson1.exe
+C:\Projects\GeekBrains\Lesson1\Lesson1\obj\Debug\Lesson1.pdb

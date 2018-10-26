@@ -1,0 +1,12 @@
+C:\Projects\GeekBrains\Lesson2-2\obj\Debug\Lesson2_2.Properties.Resources.resources
+C:\Projects\GeekBrains\Lesson2-2\obj\Debug\Lesson2-2.csproj.GenerateResource.cache
+C:\Projects\GeekBrains\Lesson2-2\obj\Debug\Lesson2-2.csproj.CoreCompileInputs.cache
+C:\Projects\GeekBrains\Lesson2\Lesson2-2\bin\Debug\Lesson2-2.exe.config
+C:\Projects\GeekBrains\Lesson2\Lesson2-2\bin\Debug\Lesson2-2.exe
+C:\Projects\GeekBrains\Lesson2\Lesson2-2\bin\Debug\Lesson2-2.pdb
+C:\Projects\GeekBrains\Lesson2\Lesson2-2\obj\Debug\Lesson2-2.csprojAssemblyReference.cache
+C:\Projects\GeekBrains\Lesson2\Lesson2-2\obj\Debug\Lesson2_2.Properties.Resources.resources
+C:\Projects\GeekBrains\Lesson2\Lesson2-2\obj\Debug\Lesson2-2.csproj.GenerateResource.cache
+C:\Projects\GeekBrains\Lesson2\Lesson2-2\obj\Debug\Lesson2-2.csproj.CoreCompileInputs.cache
+C:\Projects\GeekBrains\Lesson2\Lesson2-2\obj\Debug\Lesson2-2.exe
+C:\Projects\GeekBrains\Lesson2\Lesson2-2\obj\Debug\Lesson2-2.pdb
